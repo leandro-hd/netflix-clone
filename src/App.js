@@ -58,13 +58,14 @@ export default () => {
       </section>
 
       <footer>
-        Feito por <strong>Leandro Dias</strong> <br/>
-        Direitos de imagem para <strong>Netflix</strong>
+      <img src="/tmdb.svg" alt="The Movie DB" className="footer-image"/> <br/>
+        Feito por <span className="footer">Leandro Dias</span> <br/>
+        Direitos de imagem para <span className="footer">Netflix</span>
       </footer>
 
       {movieList.length <= 0 &&
         <div className="loading">
-          <img src="https://cdn.lowgif.com/small/0534e2a412eeb281-the-counterintuitive-tech-behind-netflix-s-worldwide.gif" alt="Carregando"/>
+          <img src="/loading.gif" alt="Carregando"/>
         </div>
       }
     </div>
