@@ -86,9 +86,18 @@ Destaque (Mobile)          | Destaque (Desktop)        | Categorias (Mobile)
 
 <h2 id="author"> ✎ Autor </h2>
 
-<p> Feito por <strong>Leandro Dias</strong>. </p>
+<p> Feito por <strong>Leandro Dias</strong>. <br/> <br/>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/leandro-hd)](https://github.com/leandro-hd) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leandrohg2003@gmail.com)](mailto:leandrohg2003@gmail.com)
+<a href="https://www.linkedin.com/in/leandro-hd/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.github.com/leandro-hd/">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leandrohg2003@gmail.com" alt="Gmail"/>
+</p>
 
 <br/>
 
