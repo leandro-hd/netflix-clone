@@ -53,7 +53,7 @@ Destaque (Mobile)          | Destaque (Desktop)        | Categorias (Mobile)
 
 <h2 id="deploy"> 🚀 Demonstração </h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4fe3d905-87b1-4873-bb73-4b3cf2cc95d4/deploy-status)](https://app.netlify.com/sites/netflix-js/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fe3d905-87b1-4873-bb73-4b3cf2cc95d4/deploy-status)](https://netflix-js.netlify.app/)
 
 <br/>
 
